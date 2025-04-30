@@ -2,7 +2,7 @@
 
 # 👩‍💻 Residência em TIC 20 – Capacita Brasil – C-Jovem 👨‍💻
 
-Seja bem-vindo(a) a **Residência em TIC 20 – Capacita Brasil – C-Jovem**! Aqui você encontrará materiais, projetos e recursos que vão te acompanhar ao longo da sua jornada rumo às áreas mais promissoras da tecnologia: **Ciência de Dados** e **Desenvolvimento de Softwares**. 🚀
+Seja bem-vindo(a) a **Residência em TIC 20 – Capacita Brasil – C-Jovem**! Aqui você encontrará materiais, projetos e recursos que vão te acompanhar ao longo da sua jornada rumo às áreas mais promissoras da tecnologia: **Ciência de Dados** e **Desenvolvimento Full Stack**. 🚀
 
 ## 🎯 Sobre o Programa
 
