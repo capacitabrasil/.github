@@ -1,4 +1,4 @@
-<img src="image/cjovem.jpeg" style="width: 100%;">
+<img src="image/cjovem1.jpeg" style="width: 100%;">
 
 # 👩‍💻 Residência em TIC 20 – Capacita Brasil – C-Jovem 👨‍💻
 
@@ -94,3 +94,5 @@ Jovens residentes no Ceará que sejam:
 ---
 
 **Vamos juntos transformar seu futuro com tecnologia!** 🚀
+
+<img src="image/cjovem2.jpeg" style="width: 100%;">
