@@ -95,4 +95,4 @@ Jovens residentes no Ceará que sejam:
 
 **Vamos juntos transformar seu futuro com tecnologia!** 🚀
 
-<img src="image/cjovem2.jpeg" style="width: 100%;">
+<img src="image/cjovem2.png" style="width: 100%;">
