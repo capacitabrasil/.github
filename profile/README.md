@@ -31,7 +31,7 @@ Jovens residentes no Ceará que sejam:
 | Etapa | Carga Horária | Conteúdo |
 |-------|----------------|----------|
 | 📘 Formação Básica | 120h | Inglês, Projeto de Vida, Empreendedorismo e Raciocínio Lógico |
-| 💻 Formação Técnica | 240h | Full Stack ou Ciência de Dados |
+| 💻 Formação Técnica | 240h | Ciência de Dados ou Full Stack |
 | 🏢 Imersão Profissional | 120h | Residência prática com bolsa auxílio |
 
 ---
